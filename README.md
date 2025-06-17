@@ -1,0 +1,2 @@
+# Galelai
+Fictional AI Company

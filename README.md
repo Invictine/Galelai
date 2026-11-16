@@ -1,6 +1,6 @@
 # Cranium · Galelai
 
-A fictional AI automation agency website demonstrating how to explain a service, show examples, and guide visitors to a consultation.
+What if an AI automation studio had to earn your trust before asking for a call? This fictional agency concept makes the pitch concrete with service examples and a consultation path, all in a compact Framer-exported page. It’s a static design exercise, so fork the layout or swap in your own service story.
 
 ## Explore the concept
 

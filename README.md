@@ -1,6 +1,6 @@
 # Cranium · Galelai
 
-What if an AI automation studio had to earn your trust before asking for a call? This fictional agency concept makes the pitch concrete with service examples and a consultation path, all in a compact Framer-exported page. It’s a static design exercise, so fork the layout or swap in your own service story. Review the setup instructions and architecture below, or fork the repository to adapt the implementation to your requirements.
+What if an AI automation studio had to earn your trust before asking for a call? This fictional agency concept makes the pitch concrete with service examples and a consultation path, all in a compact Framer-exported page. It’s a static design exercise, so fork the layout or swap in your own service story.
 
 [![Cranium · Galelai](media/overview.png)](media/walkthrough.mp4)
 *Click preview above to watch recorded interface demo.*

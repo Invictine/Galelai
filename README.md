@@ -1,20 +1,34 @@
-# Cranium · Galelai
+# Galelai · Cranium Studio
 
-What if an AI automation studio had to earn your trust before asking for a call? This fictional agency concept makes the pitch concrete with service examples and a consultation path, all in a compact Framer-exported page. It’s a static design exercise, so fork the layout or swap in your own service story.
+> **AI automation agency concept showcase and service architecture portal.**
 
-## Explore the concept
+[![Galelai Hero](media/overview.png)](media/walkthrough.mp4)
 
-Open the [hosted landing page](https://galelai.vercel.app) or open [index.html](index.html) in a browser. The page is a Framer export and uses externally hosted assets. [oldindex.html](oldindex.html) is the earlier revision.
+*Click the preview card above to watch the interactive walkthrough.*
 
-The agency, project examples, and marketing claims on the page are part of the fictional pitch.
+---
 
-## Page structure
+## Why I Built This
 
-```mermaid
-flowchart LR
-  Visitor --> LandingPage[index.html]
-  LandingPage --> HostedAssets[Externally hosted assets]
-  LandingPage --> ConsultationCTA[Consultation call to action]
+Demonstrating the value of AI automation requires more than code snippets—clients need to see how autonomous workflows, CRM syncing, and LLM integrations directly solve business bottlenecks.
+
+Galelai / Cranium is an editorial agency presentation site showcasing specialized automation capabilities, transparent project scopes, and an interactive discovery booking funnel.
+
+## Standout Features
+
+- **Editorial Dark Aesthetic:** Sophisticated typography with smooth interactive layout elements.
+- **Comprehensive Service Matrix:** Clear architectural breakdowns of autonomous workflows and data sync pipelines.
+- **Client Discovery Funnel:** Streamlined intake workflow designed for enterprise workflow audits.
+
+## Media & Visuals
+
+- **Captured Interface:** `media/overview.png`
+- **Recorded Walkthrough:** `media/walkthrough.mp4`
+
+## Running Locally
+
+```bash
+git clone https://github.com/Invictine/Galelai.git
+cd Galelai
+npx serve .
 ```
-
-This is a static Framer export with no application server or working consultation backend. The hosted page and local file view are presentation demos.
